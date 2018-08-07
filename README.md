@@ -7,4 +7,4 @@ OBJECTIVE
 The objective is to present a baseline for implementing direct line of site nearest neighbor and traveling salesmen algorithms (TODO).
 
 DEVELOPER NOTES
-The code is standalone and doesnt require a web server.  Simply extract to your machine, then double click the index.html file.  Since its specifically for development purposes, you may benefit from viewing and interacting with the code via the developer console of your preferred web browser.
+The Javascript code is standalone and doesnt require a web server.  Simply extract to your machine, then double click the index.html file.  Since its specifically for development purposes, you may benefit from viewing and interacting with the code via the developer console of your preferred web browser.
