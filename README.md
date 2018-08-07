@@ -1,7 +1,7 @@
 README
 
 INTRODUCTION
-The code uses OpenLayer to present a map of the area west of DC that calculates geospatial distance between points.  To do this, the user should click multiple consecutive points to set lat, lon positions on the map.  Once a double click is made the application gathers all the poiints and calculates geospatial distances between each.  
+The code uses OpenLayer to present a map of the area west of DC that calculates geospatial distance between points.  To do this, the user should click multiple consecutive points to set lat, lon positions on the map.  Once a double click is made the application gathers all the poiints and calculates geospatial distances between each.  The lat,lon and distances bewteen each are presented below the map as html tables.
 
 OBJECTIVE
 The objective is to present a baseline for implementing direct line of site nearest neighbor and traveling salesmen algorithms (TODO).
